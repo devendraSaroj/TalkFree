@@ -1,16 +1,12 @@
-# new_app
+# TalkFree
 
-A new Flutter project.
+![Final version](messages.png) (chat.png) (call.png) (online-users.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## About
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project provides dark and interactive UI experience to chat with Strangers. Apart from chat you can even share media files and can get creative with emojis. 
+This is all good but what if I want to talk over voice call? Well I saw that coming, and good news is, this app will let you call people who are online at the moment. 
+How did you liked the UI?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
