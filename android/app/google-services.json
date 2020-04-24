@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944879013882",
+    "firebase_url": "https://voiceconnect-79c8c.firebaseio.com",
+    "project_id": "voiceconnect-79c8c",
+    "storage_bucket": "voiceconnect-79c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944879013882:android:ffc074afef557ae9359e43",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944879013882-u2ul6jut43ne3298r6btco9um8bdcb6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC014NXCIIboXmhjHwHGuyY6GYAaKtzGuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944879013882-u2ul6jut43ne3298r6btco9um8bdcb6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
