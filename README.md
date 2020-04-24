@@ -1,6 +1,9 @@
 # TalkFree
 
-![Final version](messages.png) (chat.png) (call.png) (online-users.png)
+![Final version] <br> <br>
+<img src="messages.png" height="400" width="250"/>
+<img src="chat.png" height="400" width="250"/>
+<img src="online-users.png" height="400" width="250"/>
 
 
 
